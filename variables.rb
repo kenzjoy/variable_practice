@@ -11,3 +11,6 @@ co_native = false
 user_name = "Emilie Young"
 resides_in = "Chattanooga, TN"
 spouse = "Ross Young"
+
+puts "Mackenzie loves Zack"
+puts "Emilie loves Ross"
