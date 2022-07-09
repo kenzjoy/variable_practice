@@ -8,3 +8,6 @@ dog_age = 6.5
 own_house = true
 co_resident = true
 co_native = false
+user_name = "Emilie Young"
+resides_in = "Chattanooga, TN"
+spouse = "Ross Young"
